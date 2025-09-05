@@ -1,0 +1,49 @@
+
+.flag-button {
+  position: fixed; /* Rende il bottone fisso rispetto alla finestra del browser */
+  bottom: 20px;    /* Posizione dal basso */
+  right: 20px;     /* Posizione da destra */
+  z-index: 1000;   /* Garantisce che sia sempre sopra altri contenuti */
+  display: block;  /* Per controllare meglio le dimensioni */
+  width: 50px;     /* Larghezza del bottone */
+  height: 50px;    /* Altezza del bottone */
+  border-radius: 50%; /* Rende il bottone circolare */
+  overflow: hidden; /* Nasconde ciò che esce dai bordi */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Aggiunge un'ombra per un effetto 3D */
+  transition: transform 0.3s ease-in-out; /* Animazione al passaggio del mouse */
+}
+
+.flag-button img {
+  width: 100%; /* L'immagine riempie il contenitore */
+  height: 100%;
+  object-fit: cover; /* Assicura che l'immagine copra lo spazio senza distorsioni */
+}
+
+.flag-button:hover {
+  transform: scale(1.1); /* Ingrandisce leggermente il bottone al passaggio del mouse */
+}
+ 
+
+/Bologna/quadrilatero/assets
+/Bologna/quadrilatero/data
+/Bologna/quadrilatero/public
+/Bologna/quadrilatero/src
+/Bologna/quadrilatero/assets/audio
+/Bologna/quadrilatero/assets/images
+/Bologna/quadrilatero/assets/music
+/Bologna/quadrilatero/assets/audio/de
+/Bologna/quadrilatero/assets/audio/en
+/Bologna/quadrilatero/assets/audio/es
+/Bologna/quadrilatero/assets/audio/fr
+/Bologna/quadrilatero/assets/audio/it
+/Bologna/quadrilatero/assets/audio/ma
+/Bologna/quadrilatero/assets/audio/pt
+/Bologna/quadrilatero/data/translations
+/Bologna/quadrilatero/data/translations/de
+/Bologna/quadrilatero/data/translations/en
+/Bologna/quadrilatero/data/translations/es
+/Bologna/quadrilatero/data/translations/fr
+/Bologna/quadrilatero/data/translations/it
+/Bologna/quadrilatero/data/translations/ma
+/Bologna/quadrilatero/data/translations/pt
+/Bologna/quadrilatero/public/flags
