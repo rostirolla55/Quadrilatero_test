@@ -22,28 +22,3 @@
 .flag-button:hover {
   transform: scale(1.1); /* Ingrandisce leggermente il bottone al passaggio del mouse */
 }
- 
-
-/Bologna/quadrilatero/assets
-/Bologna/quadrilatero/data
-/Bologna/quadrilatero/public
-/Bologna/quadrilatero/src
-/Bologna/quadrilatero/assets/audio
-/Bologna/quadrilatero/assets/images
-/Bologna/quadrilatero/assets/music
-/Bologna/quadrilatero/assets/audio/de
-/Bologna/quadrilatero/assets/audio/en
-/Bologna/quadrilatero/assets/audio/es
-/Bologna/quadrilatero/assets/audio/fr
-/Bologna/quadrilatero/assets/audio/it
-/Bologna/quadrilatero/assets/audio/ma
-/Bologna/quadrilatero/assets/audio/pt
-/Bologna/quadrilatero/data/translations
-/Bologna/quadrilatero/data/translations/de
-/Bologna/quadrilatero/data/translations/en
-/Bologna/quadrilatero/data/translations/es
-/Bologna/quadrilatero/data/translations/fr
-/Bologna/quadrilatero/data/translations/it
-/Bologna/quadrilatero/data/translations/ma
-/Bologna/quadrilatero/data/translations/pt
-/Bologna/quadrilatero/public/flags
